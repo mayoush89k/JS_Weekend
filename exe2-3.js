@@ -5,6 +5,6 @@ function findNextSquare(squareNumber) {
     : -1;
 }
 
-console.log(findNextSquare(121));
-console.log(findNextSquare(625));
-console.log(findNextSquare(114));
+console.log("next square of 121 -> " ,findNextSquare(121));
+console.log("next square of 625 -> " ,findNextSquare(625));
+console.log("next square of 114 -> " ,findNextSquare(114));

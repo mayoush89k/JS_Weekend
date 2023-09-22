@@ -6,5 +6,5 @@ function summation (number){
     return result;
 }
 
-console.log(summation(2));
-console.log(summation(8));
+console.log(2 , " -> " , summation(2));
+console.log(8 , " -> " , summation(8));

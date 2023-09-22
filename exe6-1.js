@@ -6,7 +6,7 @@ function accum(word) {
     }
     newWord += x == word.length - 1 ? "" : "-";
   }
-  console.log(newWord);
+  console.log(word , " -> " , newWord);
 }
 
 accum("abcd");

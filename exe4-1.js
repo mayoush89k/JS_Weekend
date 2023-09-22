@@ -6,4 +6,4 @@ function fibonacci(){
     return fib;
 }
 
-console.log(fibonacci());
+console.log("Fibonacci numbers are: ", fibonacci());

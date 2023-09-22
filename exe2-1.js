@@ -16,5 +16,5 @@ function sumOfMin (numbers){
     console.log("min2 " , min2);
 }
 
-sumOfMin([19, 5, 42, 2, 77]);
-sumOfMin([10, 343445353, 3453445, 3453545353453]);
+sumOfMin("sum of two minimum numbers [19, 5, 42, 2, 77] -> " , [19, 5, 42, 2, 77]);
+sumOfMin("sum of two minimum numbers [10, 343445353, 3453445, 3453545353453] -> " , [10, 343445353, 3453445, 3453545353453]);

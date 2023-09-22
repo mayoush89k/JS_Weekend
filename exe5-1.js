@@ -10,6 +10,6 @@ function trimming(word) {
   return newWord;
 }
 
-console.log(trimming("Trimming String"));
-console.log(trimming("Exercise 5-1"));
-console.log(trimming("Weekend Assignment"));
+console.log("Trimming String -> " , trimming("Trimming String"));
+console.log("Exercise 5-1 -> " , trimming("Exercise 5-1"));
+console.log("Weekend Assignment -> " , trimming("Weekend Assignment"));

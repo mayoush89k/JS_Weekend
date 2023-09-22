@@ -12,8 +12,8 @@ function CamelCase(word) {
 }
 
 
-console.log(CamelCase('Camel_Case'));
-console.log(CamelCase('Exercise_5-3'));
-console.log(CamelCase('the-stealth-warrior'));
-console.log(CamelCase('weekend_assignment'));
-console.log(CamelCase('Bootcamp_jerusalem'));
+console.log('Camel_Case -> ' , CamelCase('Camel_Case'));
+console.log('Exercise_5-3 -> ' , CamelCase('Exercise_5-3'));
+console.log('the-stealth-warrior -> ' , CamelCase('the-stealth-warrior'));
+console.log('weekend_assignment -> ' , CamelCase('weekend_assignment'));
+console.log('Bootcamp_jerusalem -> ' , CamelCase('Bootcamp_jerusalem'));
